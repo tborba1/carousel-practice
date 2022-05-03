@@ -1,6 +1,4 @@
-# bootstrap-boilerplate
-## MF Day 3 Daily Challenge
-- index.html contains bootstrap starter template
-## MF Day 3 Take-Home Challenge
-- Practice using readme files
-- Practice using markdown syntax
+## MF Day 9
+- add a carousel to your index.html
+- add 5 or more slides that tell a story
+- caption your slides
