@@ -1,5 +1,6 @@
 body {
     background-image: url(/carousel-practice/img/grass_bradley-brister-WdsLOJ5BViU-unsplash.jpg);
+    background-repeat: no-repeat;
 }
 
 .container {
